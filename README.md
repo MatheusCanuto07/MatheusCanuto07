@@ -1,6 +1,1 @@
-Olá, eu sou o Matheus Canuto
-
-Eu estou interessado em desenvolvimento Web
-
-Meu e-mail Matheuscanuto07@gmail.com
-
+Interessado em <b>desenvolvimento WEB Full stack</b>. Minha ultima experiência profissional foi um estágio em uma empresa de energia sustentável, nesse estágio eu desenvolvia funcionalidades para a plataforma WEB, a linguagem utilizada era <b>C# (ASP NET)</b>. Atualmente sou voluntário no departamento de comunicação no Equalizar (Cursinho popular oficial da UFMG).
