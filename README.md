@@ -1,7 +1,7 @@
 <h1>Olá! Bem vindo ao meu perfil!</h1>
 
 <p>
-    Minha ultima experiência profissional foi um <b>estágio</b> em uma empresa de energia sustentável, onde eu <B>desenvolvia funcionalidades</B> para a plataforma WEB, essa plataforma era responsável por gerar relatórios para todos os setores da  empresa, fazer a rateio de energia para os clientes, facilitar a comunicação entre os funcionários, gerar faturas para os clientes entre diversas outras coisas, foi um baita desafio. Tenho interesse em atuar como <b>Desenvolvedor Web Full Stack. Sou voluntário no Equalizar, uma organização estudantil da Universidade Federal de Minas Gerais (UFMG).</b>
+    Olá! Tudo bem !? Estou no 4° período do curso Sistemas de informação na Puc Minas, nesse tempo desenvolvi projetos interessantes. O último deles foi o "Velozes e Alugados", onde eu e mais 5 pessoas desenvolvemos uma aplicação web para controle e locação de veículos, utilizamos o Figma para prototipagem, linguagens base para o front-end (HTML, CSS e JS puro), framework ASP NET para a API (C# 8.0) e o banco de dados MySql (8.3.3). Sou voluntário no Equalizar (Cursinho popular da UFMG), nesse projeto desenvolvi o site junto com mais um dev e ajudo com a criação de posts para o Instagram. Participei do HACK A TRUCK, curso presencial de SWIFT, onde com mais 4 pessoas desenvolvi uma aplicação para professores postarem informações sobre os alunos e os pais conseguirem visualizar.
 </p>
 
 <h3>Estudo diariamente tecnologias/linguagens como: </h3>
