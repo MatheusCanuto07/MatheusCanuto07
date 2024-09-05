@@ -1,6 +1,14 @@
-<h1>Olá! Bem vindo ao meu perfil!</h1>
+<tr>
+ <td align="center" colspan="3"></td>
+</tr>
 
+<div>
+    <img src="img/github-header-image (1).png">
+</div>
 
+<tr>
+ <td align="center" colspan="3"></td>
+</tr>
 
 <p>
     Olá! Tudo bem !? Estou no 4° período do curso Sistemas de informação na Puc Minas, nesse tempo desenvolvi projetos interessantes. O último deles foi o "Velozes e Alugados", onde eu e mais 5 pessoas desenvolvemos uma aplicação web para controle e locação de veículos, utilizamos o Figma para prototipagem, linguagens base para o front-end (HTML, CSS e JS puro), framework ASP NET para a API (C# 8.0) e o banco de dados MySql (8.3.3). Sou voluntário no Equalizar (Cursinho popular da UFMG), nesse projeto desenvolvi o site junto com mais um dev e ajudo com a criação de posts para o Instagram. Participei do HACK A TRUCK, curso presencial de SWIFT, onde com mais 4 pessoas desenvolvi uma aplicação para professores postarem informações sobre os alunos e os pais conseguirem visualizar.
