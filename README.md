@@ -1,5 +1,7 @@
 <h1>Olá! Bem vindo ao meu perfil!</h1>
 
+
+
 <p>
     Olá! Tudo bem !? Estou no 4° período do curso Sistemas de informação na Puc Minas, nesse tempo desenvolvi projetos interessantes. O último deles foi o "Velozes e Alugados", onde eu e mais 5 pessoas desenvolvemos uma aplicação web para controle e locação de veículos, utilizamos o Figma para prototipagem, linguagens base para o front-end (HTML, CSS e JS puro), framework ASP NET para a API (C# 8.0) e o banco de dados MySql (8.3.3). Sou voluntário no Equalizar (Cursinho popular da UFMG), nesse projeto desenvolvi o site junto com mais um dev e ajudo com a criação de posts para o Instagram. Participei do HACK A TRUCK, curso presencial de SWIFT, onde com mais 4 pessoas desenvolvi uma aplicação para professores postarem informações sobre os alunos e os pais conseguirem visualizar.
 </p>
@@ -41,3 +43,5 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=100&color=000&textBg=false&section=footer">
