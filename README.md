@@ -23,7 +23,7 @@
 </table>
 
 <p>
-    Olá, tudo bem ?! Meu nome é Matheus, moro em Contagem - MG e sou apaxionado por desenvolvimento de software.
+    Olá, tudo bem ?! Meu nome é Matheus, moro em Belo horizonte - MG e sou apaxionado por desenvolvimento de software.
 </p>
 
 -----
